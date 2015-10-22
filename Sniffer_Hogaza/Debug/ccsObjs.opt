@@ -1,0 +1,1 @@
+"./cc2520/hal_cc2520.obj" "./cc2520/cc2520.obj" "./enc28j60/enc28j60.obj" "./main.obj" "./utils/sense_utils.obj" "./utils/msp430_arch.obj" "./utils/leds.obj" "./utils/buttons.obj" -l"libc.a" "../lnk_msp430f5435a.cmd" 

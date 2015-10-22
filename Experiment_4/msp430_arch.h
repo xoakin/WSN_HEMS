@@ -1,0 +1,8 @@
+#ifndef _MSP430_ARCH_H_
+#define _MSP430_ARCH_H_
+
+#define CPU_FREQ_16		1
+
+void msp430_init(void);
+
+#endif //__MSP430_ARCH_H_
